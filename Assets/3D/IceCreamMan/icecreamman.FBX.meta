@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: c43fe5bbc87ef1344a8f8530120ae501
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: boss:Arms_Geo
+    100002: boss:Head
+    100004: boss:Head_Geo
+    100006: boss:HeadTop_End
+    100008: boss:Hips
+    100010: boss:Jacket_Geo
+    100012: boss:LeftArm
+    100014: boss:LeftFoot
+    100016: boss:LeftFootToeBase_End
+    100018: boss:LeftForeArm
+    100020: boss:LeftHand
+    100022: boss:LeftHandIndex1
+    100024: boss:LeftHandIndex2
+    100026: boss:LeftHandIndex3
+    100028: boss:LeftHandIndex4
+    100030: boss:LeftHandIndex5
+    100032: boss:LeftHandMiddle1
+    100034: boss:LeftHandMiddle2
+    100036: boss:LeftHandMiddle3
+    100038: boss:LeftHandMiddle4
+    100040: boss:LeftHandMiddle5
+    100042: boss:LeftHandPinky1
+    100044: boss:LeftHandPinky2
+    100046: boss:LeftHandPinky3
+    100048: boss:LeftHandPinky4
+    100050: boss:LeftHandPinky5
+    100052: boss:LeftHandRing1
+    100054: boss:LeftHandRing2
+    100056: boss:LeftHandRing3
+    100058: boss:LeftHandRing4
+    100060: boss:LeftHandRing5
+    100062: boss:LeftHandThumb1
+    100064: boss:LeftHandThumb2
+    100066: boss:LeftHandThumb3
+    100068: boss:LeftHandThumb4
+    100070: boss:LeftHandThumb5
+    100072: boss:LeftLeg
+    100074: boss:LeftShoulder
+    100076: boss:LeftToeBase
+    100078: boss:LeftUpLeg
+    100080: boss:Meshes
+    100082: boss:Neck
+    100084: boss:Neck1
+    100086: boss:Pants_Geo
+    100088: boss:RightArm
+    100090: boss:RightFoot
+    100092: boss:RightFootToeBase_End
+    100094: boss:RightForeArm
+    100096: boss:RightHand
+    100098: boss:RightHandIndex1
+    100100: boss:RightHandIndex2
+    100102: boss:RightHandIndex3
+    100104: boss:RightHandIndex4
+    100106: boss:RightHandIndex5
+    100108: boss:RightHandMiddle1
+    100110: boss:RightHandMiddle2
+    100112: boss:RightHandMiddle3
+    100114: boss:RightHandMiddle4
+    100116: boss:RightHandMiddle5
+    100118: boss:RightHandPinky1
+    100120: boss:RightHandPinky2
+    100122: boss:RightHandPinky3
+    100124: boss:RightHandPinky4
+    100126: boss:RightHandPinky5
+    100128: boss:RightHandRing1
+    100130: boss:RightHandRing2
+    100132: boss:RightHandRing3
+    100134: boss:RightHandRing4
+    100136: boss:RightHandRing5
+    100138: boss:RightHandThumb1
+    100140: boss:RightHandThumb2
+    100142: boss:RightHandThumb3
+    100144: boss:RightHandThumb4
+    100146: boss:RightHandThumb5
+    100148: boss:RightLeg
+    100150: boss:RightShoulder
+    100152: boss:RightToeBase
+    100154: boss:RightUpLeg
+    100156: boss:Shoes_Geo
+    100158: boss:Spine
+    100160: boss:Spine1
+    100162: boss:Spine2
+    100164: Box002
+    100166: Cylinder001
+    100168: //RootNode
+    100170: Sky001
+    100172: Sphere002
+    100174: Sphere006
+    400000: boss:Arms_Geo
+    400002: boss:Head
+    400004: boss:Head_Geo
+    400006: boss:HeadTop_End
+    400008: boss:Hips
+    400010: boss:Jacket_Geo
+    400012: boss:LeftArm
+    400014: boss:LeftFoot
+    400016: boss:LeftFootToeBase_End
+    400018: boss:LeftForeArm
+    400020: boss:LeftHand
+    400022: boss:LeftHandIndex1
+    400024: boss:LeftHandIndex2
+    400026: boss:LeftHandIndex3
+    400028: boss:LeftHandIndex4
+    400030: boss:LeftHandIndex5
+    400032: boss:LeftHandMiddle1
+    400034: boss:LeftHandMiddle2
+    400036: boss:LeftHandMiddle3
+    400038: boss:LeftHandMiddle4
+    400040: boss:LeftHandMiddle5
+    400042: boss:LeftHandPinky1
+    400044: boss:LeftHandPinky2
+    400046: boss:LeftHandPinky3
+    400048: boss:LeftHandPinky4
+    400050: boss:LeftHandPinky5
+    400052: boss:LeftHandRing1
+    400054: boss:LeftHandRing2
+    400056: boss:LeftHandRing3
+    400058: boss:LeftHandRing4
+    400060: boss:LeftHandRing5
+    400062: boss:LeftHandThumb1
+    400064: boss:LeftHandThumb2
+    400066: boss:LeftHandThumb3
+    400068: boss:LeftHandThumb4
+    400070: boss:LeftHandThumb5
+    400072: boss:LeftLeg
+    400074: boss:LeftShoulder
+    400076: boss:LeftToeBase
+    400078: boss:LeftUpLeg
+    400080: boss:Meshes
+    400082: boss:Neck
+    400084: boss:Neck1
+    400086: boss:Pants_Geo
+    400088: boss:RightArm
+    400090: boss:RightFoot
+    400092: boss:RightFootToeBase_End
+    400094: boss:RightForeArm
+    400096: boss:RightHand
+    400098: boss:RightHandIndex1
+    400100: boss:RightHandIndex2
+    400102: boss:RightHandIndex3
+    400104: boss:RightHandIndex4
+    400106: boss:RightHandIndex5
+    400108: boss:RightHandMiddle1
+    400110: boss:RightHandMiddle2
+    400112: boss:RightHandMiddle3
+    400114: boss:RightHandMiddle4
+    400116: boss:RightHandMiddle5
+    400118: boss:RightHandPinky1
+    400120: boss:RightHandPinky2
+    400122: boss:RightHandPinky3
+    400124: boss:RightHandPinky4
+    400126: boss:RightHandPinky5
+    400128: boss:RightHandRing1
+    400130: boss:RightHandRing2
+    400132: boss:RightHandRing3
+    400134: boss:RightHandRing4
+    400136: boss:RightHandRing5
+    400138: boss:RightHandThumb1
+    400140: boss:RightHandThumb2
+    400142: boss:RightHandThumb3
+    400144: boss:RightHandThumb4
+    400146: boss:RightHandThumb5
+    400148: boss:RightLeg
+    400150: boss:RightShoulder
+    400152: boss:RightToeBase
+    400154: boss:RightUpLeg
+    400156: boss:Shoes_Geo
+    400158: boss:Spine
+    400160: boss:Spine1
+    400162: boss:Spine2
+    400164: Box002
+    400166: Cylinder001
+    400168: //RootNode
+    400170: Sky001
+    400172: Sphere002
+    400174: Sphere006
+    2100000: Clothes_MAT
+    2100002: 'Material #2'
+    2100004: 'Material #163'
+    2100006: Skin_MAT
+    2100008: 'Material #140'
+    4300000: boss:Jacket_Geo
+    4300002: boss:Shoes_Geo
+    4300004: Cylinder001
+    4300006: Sphere002
+    4300008: boss:Pants_Geo
+    4300010: boss:Arms_Geo
+    4300012: Sphere006
+    9500000: //RootNode
+    13700000: boss:Arms_Geo
+    13700002: boss:Jacket_Geo
+    13700004: boss:Pants_Geo
+    13700006: boss:Shoes_Geo
+    13700008: Cylinder001
+    13700010: Sphere002
+    13700012: Sphere006
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clothes_MAT
+    second: {fileID: 2100000, guid: b4b7295ace9631c43b73831fb70fb72c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #140'
+    second: {fileID: 2100000, guid: 259c932efeaa2ca4387f9ba49cab811f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #163'
+    second: {fileID: 2100000, guid: 7e0c5877468aa794b94b5c094c7be290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: 8ddce3d96395a2443914be755b7603c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin_MAT
+    second: {fileID: 2100000, guid: eb0e9e6ad046d1740b68afeefb120440, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+Converting script [1 / 5]	[\BackPressPause.cs]
+	Fragments : 1
+		[ 0] : Line:   19	InputMethod   GetKeyDown          	(KeyCode.Escape)
+
+Converting script [2 / 5]	[\ExitPanel.cs]
+	Fragments : 1
+		[ 0] : Line:   20	InputMethod   GetKeyDown          	(KeyCode.Escape)
+
+Converting script [3 / 5]	[\Scripts\LevelCompleteHandler.cs]
+	Fragments : 1
+		[ 0] : Line:   33	InputMethod   GetMouseButton      	(0)
+
+Converting script [4 / 5]	[\Scripts\levelFailedHandler.cs]
+	Fragments : 1
+		[ 0] : Line:   32	InputMethod   GetMouseButton      	(0)
+
+Converting script [5 / 5]	[\Scripts\ObjectiveHandler.cs]
+	Fragments : 1
+		[ 0] : Line:   34	InputMethod   GetButtonDown       	("Fire1")
+
+
+5 scripts modified!
+Overwriting actual scripts...
+	[0 / 5] from  [E:/Unity Workspace/Scary IceCream/Scary Ice Cream/CF2-Data/Script-Backups/2019-11-29-15-30\Assets-After/\BackPressPause.cs] to [E:/Unity Workspace/Scary IceCream/Scary Ice Cream/Assets/\BackPressPause.cs]
+	[1 / 5] from  [E:/Unity Workspace/Scary IceCream/Scary Ice Cream/CF2-Data/Script-Backups/2019-11-29-15-30\Assets-After/\ExitPanel.cs] to [E:/Unity Workspace/Scary IceCream/Scary Ice Cream/Assets/\ExitPanel.cs]
+	[2 / 5] from  [E:/Unity Workspace/Scary IceCream/Scary Ice Cream/CF2-Data/Script-Backups/2019-11-29-15-30\Assets-After/\Scripts\LevelCompleteHandler.cs] to [E:/Unity Workspace/Scary IceCream/Scary Ice Cream/Assets/\Scripts\LevelCompleteHandler.cs]
+	[3 / 5] from  [E:/Unity Workspace/Scary IceCream/Scary Ice Cream/CF2-Data/Script-Backups/2019-11-29-15-30\Assets-After/\Scripts\levelFailedHandler.cs] to [E:/Unity Workspace/Scary IceCream/Scary Ice Cream/Assets/\Scripts\levelFailedHandler.cs]
+	[4 / 5] from  [E:/Unity Workspace/Scary IceCream/Scary Ice Cream/CF2-Data/Script-Backups/2019-11-29-15-30\Assets-After/\Scripts\ObjectiveHandler.cs] to [E:/Unity Workspace/Scary IceCream/Scary Ice Cream/Assets/\Scripts\ObjectiveHandler.cs]
+
+Overwriting COMPLETED!

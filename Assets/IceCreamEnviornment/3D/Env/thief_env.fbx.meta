@@ -1,0 +1,2647 @@
+fileFormatVersion: 2
+guid: 972a5518cf7de48e187224b4889522ae
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 0      011
+    100002: 1      011
+    100004: 11     011
+    100006: 12     011
+    100008: 13     011
+    100010: 14     011
+    100012: 15     011Shape
+    100014: 16     011
+    100016: 17     011
+    100018: 18     011
+    100020: 2      011
+    100022: 22     011
+    100024: 23     011
+    100026: 24     011
+    100028: 25     011
+    100030: 26     011
+    100032: 27     011
+    100034: 28     011
+    100036: 3      011
+    100038: 31     011
+    100040: 32     011
+    100042: 33     011
+    100044: 34     011
+    100046: 5      011
+    100048: 6      011
+    100050: 7      011
+    100052: AvizstudioToolsATiles006
+    100054: AvizstudioToolsATiles011
+    100056: bc_set3_10
+    100058: bc_set3_11
+    100060: bc_set3_12
+    100062: bc_set3_6
+    100064: bc_set3_7
+    100066: bc_set3_9
+    100068: bc_set4_7
+    100070: bc_set4_8
+    100072: bcn_set2_2
+    100074: bcn_set2_3
+    100076: bcn_set2_4
+    100078: bcn_set3_2
+    100080: bcn_set3_3
+    100082: bcn_set3_4
+    100084: border
+    100086: border 1
+    100088: border 2
+    100090: border 3
+    100092: border 4
+    100094: border 5
+    100096: border 6
+    100098: border 7
+    100100: Building_0106
+    100102: Building_0107
+    100104: Building_0108
+    100106: Building_0109
+    100108: Building_037
+    100110: Building_044
+    100112: Building_045
+    100114: Building_048
+    100116: Building_054
+    100118: Building_055
+    100120: Building_056
+    100122: Building_057
+    100124: Building_060
+    100126: Building_077
+    100128: Building_078
+    100130: Building_079
+    100132: Building_080
+    100134: Building_085
+    100136: Building_086
+    100138: Building_087
+    100140: Building_088
+    100142: Building_089
+    100144: Building_090
+    100146: Building_091
+    100148: christ
+    100150: Church
+    100152: church
+    100154: church1
+    100156: church2
+    100158: church3
+    100160: church5
+    100162: Church6
+    100164: church_big_woode_casing_LOD1
+    100166: church_big_woode_casing_LOD1_1
+    100168: church_doors
+    100170: church_small_woode_casing_LOD1
+    100172: church_small_woode_casing_LOD1_1
+    100174: church_small_woode_casing_LOD1_2
+    100176: door
+    100178: door 1
+    100180: door 10
+    100182: door 11
+    100184: door 12
+    100186: door 13
+    100188: door 14
+    100190: door 15
+    100192: door 16
+    100194: door 17
+    100196: door 18
+    100198: door 19
+    100200: door 2
+    100202: door 20
+    100204: door 21
+    100206: door 22
+    100208: door 23
+    100210: door 3
+    100212: door 4
+    100214: door 5
+    100216: door 6
+    100218: door 7
+    100220: door 8
+    100222: door 9
+    100224: door1
+    100226: door1 1
+    100228: door1 2
+    100230: door1 3
+    100232: door1 4
+    100234: door1 5
+    100236: door1 6
+    100238: door10
+    100240: door11
+    100242: door12
+    100244: door13
+    100246: door14
+    100248: door15
+    100250: door16
+    100252: door17
+    100254: door18
+    100256: door19
+    100258: door2
+    100260: door2 1
+    100262: door2 2
+    100264: door20
+    100266: door21
+    100268: door22
+    100270: door23
+    100272: door24
+    100274: door25
+    100276: door26
+    100278: door27
+    100280: door28
+    100282: door29
+    100284: door3
+    100286: door3 1
+    100288: door30
+    100290: door4
+    100292: door4 1
+    100294: door5
+    100296: door7
+    100298: door8
+    100300: door9
+    100302: door_big_left_wing_LOD1
+    100304: door_big_left_wing_LOD1_1
+    100306: door_big_right_wing_LOD1
+    100308: door_big_right_wing_LOD1_1
+    100310: door_handle_LOD1_3
+    100312: door_handle_LOD1_5
+    100314: door_small_LOD1
+    100316: fence
+    100318: fence1
+    100320: floor
+    100322: frame
+    100324: frame 1
+    100326: frame 10
+    100328: frame 11
+    100330: frame 2
+    100332: frame 3
+    100334: frame 4
+    100336: frame 5
+    100338: frame 6
+    100340: frame 7
+    100342: frame 8
+    100344: frame 9
+    100346: glass
+    100348: glass 1
+    100350: glass 10
+    100352: glass 11
+    100354: glass 12
+    100356: glass 13
+    100358: glass 14
+    100360: glass 15
+    100362: glass 16
+    100364: glass 17
+    100366: glass 18
+    100368: glass 19
+    100370: glass 2
+    100372: glass 20
+    100374: glass 3
+    100376: glass 4
+    100378: glass 5
+    100380: glass 6
+    100382: glass 7
+    100384: glass 8
+    100386: glass 9
+    100388: Group001
+    100390: group8
+    100392: group9
+    100394: Hospital1
+    100396: house1_007
+    100398: house1_016
+    100400: house1_029
+    100402: house1_031
+    100404: house1_032
+    100406: house1_035
+    100408: house1_036
+    100410: house1_037
+    100412: house1_038
+    100414: house1_5
+    100416: house1_6
+    100418: house2_007
+    100420: house2_008
+    100422: house2_009
+    100424: house2_010
+    100426: house2_012
+    100428: house2_013
+    100430: house2_014
+    100432: house2_015
+    100434: house2_016
+    100436: house2_017
+    100438: house2_018
+    100440: house2_019
+    100442: house2_020
+    100444: house2_021
+    100446: house2_022
+    100448: house2_023
+    100450: house2_024
+    100452: house2_025
+    100454: house2_026
+    100456: house2_027
+    100458: house2_028
+    100460: house2_029
+    100462: house2_030
+    100464: house2_031
+    100466: house2_1
+    100468: house2_2
+    100470: house2_4
+    100472: house3_020
+    100474: house3_039
+    100476: house3_049
+    100478: house3_064
+    100480: house3_068
+    100482: house3_4
+    100484: house3_5
+    100486: inside
+    100488: interior_house
+    100490: jewellerShop
+    100492: jewellery_door
+    100494: jewellery_interior
+    100496: jewellery_shop
+    100498: pawn_shop
+    100500: pCube17
+    100502: pCube20
+    100504: pCube21
+    100506: pCube24
+    100508: pCube25
+    100510: pCube7
+    100512: PIzza_Shop001
+    100514: polySurface1
+    100516: polySurface10
+    100518: polySurface11
+    100520: polySurface12
+    100522: polySurface13
+    100524: polySurface14
+    100526: polySurface15
+    100528: polySurface16
+    100530: polySurface17
+    100532: polySurface18
+    100534: polySurface19
+    100536: polySurface2
+    100538: polySurface20
+    100540: polySurface21
+    100542: polySurface22
+    100544: polySurface23
+    100546: polySurface24
+    100548: polySurface25
+    100550: polySurface26
+    100552: polySurface27
+    100554: polySurface28
+    100556: polySurface286
+    100558: polySurface286 1
+    100560: polySurface288
+    100562: polySurface288 1
+    100564: polySurface29
+    100566: polySurface3
+    100568: polySurface30
+    100570: polySurface31
+    100572: polySurface310
+    100574: polySurface310 1
+    100576: polySurface313
+    100578: polySurface313 1
+    100580: polySurface317
+    100582: polySurface317 1
+    100584: polySurface321
+    100586: polySurface321 1
+    100588: polySurface323
+    100590: polySurface38
+    100592: polySurface38 1
+    100594: polySurface4
+    100596: polySurface40
+    100598: polySurface40 1
+    100600: polySurface5
+    100602: polySurface57
+    100604: polySurface58
+    100606: polySurface59
+    100608: polySurface6
+    100610: polySurface60
+    100612: polySurface61
+    100614: polySurface63
+    100616: polySurface7
+    100618: polySurface797
+    100620: polySurface798
+    100622: polySurface799
+    100624: polySurface799 1
+    100626: polySurface8
+    100628: polySurface800
+    100630: polySurface800 1
+    100632: polySurface801
+    100634: polySurface801 1
+    100636: polySurface802
+    100638: polySurface802 1
+    100640: polySurface803
+    100642: polySurface803 1
+    100644: polySurface804
+    100646: polySurface805
+    100648: polySurface806
+    100650: polySurface9
+    100652: road
+    100654: set1_building010
+    100656: set1_building012
+    100658: set2_building007
+    100660: set2_building008
+    100662: set2_building01
+    100664: set2_building02
+    100666: set3_building05
+    100668: set3_building07
+    100670: Shape004
+    100672: Shape005
+    100674: Shape006
+    100676: shop
+    100678: street_light
+    100680: street_light1
+    100682: street_light10
+    100684: street_light11
+    100686: street_light12
+    100688: street_light13
+    100690: street_light14
+    100692: street_light15
+    100694: street_light16
+    100696: street_light17
+    100698: street_light18
+    100700: street_light19
+    100702: street_light2
+    100704: street_light20
+    100706: street_light21
+    100708: street_light22
+    100710: street_light23
+    100712: street_light24
+    100714: street_light25
+    100716: street_light26
+    100718: street_light27
+    100720: street_light28
+    100722: street_light29
+    100724: street_light3
+    100726: street_light30
+    100728: street_light31
+    100730: street_light32
+    100732: street_light33
+    100734: street_light34
+    100736: street_light35
+    100738: street_light36
+    100740: street_light37
+    100742: street_light38
+    100744: street_light39
+    100746: street_light4
+    100748: street_light40
+    100750: street_light41
+    100752: street_light42
+    100754: street_light43
+    100756: street_light5
+    100758: street_light6
+    100760: street_light7
+    100762: street_light8
+    100764: street_light9
+    100766: street_lights
+    100768: thief_env
+    100770: //RootNode
+    100772: trees
+    100774: upper
+    100776: upper 1
+    100778: upper 2
+    100780: upper 3
+    100782: venice_building1_006
+    100784: venice_building1_008
+    100786: venice_building1_009
+    100788: venice_building1_010
+    100790: venice_building2_005
+    100792: venice_building2_006
+    100794: venice_building2_007
+    100796: venice_building2_008
+    100798: venice_building3_005
+    100800: venice_building3_006
+    100802: venice_building3_007
+    100804: venice_building3_008
+    100806: venice_building3_009
+    100808: venice_building5_004
+    100810: venice_building5_005
+    100812: venice_building5_006
+    100814: white_wood
+    400000: 0      011
+    400002: 1      011
+    400004: 11     011
+    400006: 12     011
+    400008: 13     011
+    400010: 14     011
+    400012: 15     011Shape
+    400014: 16     011
+    400016: 17     011
+    400018: 18     011
+    400020: 2      011
+    400022: 22     011
+    400024: 23     011
+    400026: 24     011
+    400028: 25     011
+    400030: 26     011
+    400032: 27     011
+    400034: 28     011
+    400036: 3      011
+    400038: 31     011
+    400040: 32     011
+    400042: 33     011
+    400044: 34     011
+    400046: 5      011
+    400048: 6      011
+    400050: 7      011
+    400052: AvizstudioToolsATiles006
+    400054: AvizstudioToolsATiles011
+    400056: bc_set3_10
+    400058: bc_set3_11
+    400060: bc_set3_12
+    400062: bc_set3_6
+    400064: bc_set3_7
+    400066: bc_set3_9
+    400068: bc_set4_7
+    400070: bc_set4_8
+    400072: bcn_set2_2
+    400074: bcn_set2_3
+    400076: bcn_set2_4
+    400078: bcn_set3_2
+    400080: bcn_set3_3
+    400082: bcn_set3_4
+    400084: border
+    400086: border 1
+    400088: border 2
+    400090: border 3
+    400092: border 4
+    400094: border 5
+    400096: border 6
+    400098: border 7
+    400100: Building_0106
+    400102: Building_0107
+    400104: Building_0108
+    400106: Building_0109
+    400108: Building_037
+    400110: Building_044
+    400112: Building_045
+    400114: Building_048
+    400116: Building_054
+    400118: Building_055
+    400120: Building_056
+    400122: Building_057
+    400124: Building_060
+    400126: Building_077
+    400128: Building_078
+    400130: Building_079
+    400132: Building_080
+    400134: Building_085
+    400136: Building_086
+    400138: Building_087
+    400140: Building_088
+    400142: Building_089
+    400144: Building_090
+    400146: Building_091
+    400148: christ
+    400150: Church
+    400152: church
+    400154: church1
+    400156: church2
+    400158: church3
+    400160: church5
+    400162: Church6
+    400164: church_big_woode_casing_LOD1
+    400166: church_big_woode_casing_LOD1_1
+    400168: church_doors
+    400170: church_small_woode_casing_LOD1
+    400172: church_small_woode_casing_LOD1_1
+    400174: church_small_woode_casing_LOD1_2
+    400176: door
+    400178: door 1
+    400180: door 10
+    400182: door 11
+    400184: door 12
+    400186: door 13
+    400188: door 14
+    400190: door 15
+    400192: door 16
+    400194: door 17
+    400196: door 18
+    400198: door 19
+    400200: door 2
+    400202: door 20
+    400204: door 21
+    400206: door 22
+    400208: door 23
+    400210: door 3
+    400212: door 4
+    400214: door 5
+    400216: door 6
+    400218: door 7
+    400220: door 8
+    400222: door 9
+    400224: door1
+    400226: door1 1
+    400228: door1 2
+    400230: door1 3
+    400232: door1 4
+    400234: door1 5
+    400236: door1 6
+    400238: door10
+    400240: door11
+    400242: door12
+    400244: door13
+    400246: door14
+    400248: door15
+    400250: door16
+    400252: door17
+    400254: door18
+    400256: door19
+    400258: door2
+    400260: door2 1
+    400262: door2 2
+    400264: door20
+    400266: door21
+    400268: door22
+    400270: door23
+    400272: door24
+    400274: door25
+    400276: door26
+    400278: door27
+    400280: door28
+    400282: door29
+    400284: door3
+    400286: door3 1
+    400288: door30
+    400290: door4
+    400292: door4 1
+    400294: door5
+    400296: door7
+    400298: door8
+    400300: door9
+    400302: door_big_left_wing_LOD1
+    400304: door_big_left_wing_LOD1_1
+    400306: door_big_right_wing_LOD1
+    400308: door_big_right_wing_LOD1_1
+    400310: door_handle_LOD1_3
+    400312: door_handle_LOD1_5
+    400314: door_small_LOD1
+    400316: fence
+    400318: fence1
+    400320: floor
+    400322: frame
+    400324: frame 1
+    400326: frame 10
+    400328: frame 11
+    400330: frame 2
+    400332: frame 3
+    400334: frame 4
+    400336: frame 5
+    400338: frame 6
+    400340: frame 7
+    400342: frame 8
+    400344: frame 9
+    400346: glass
+    400348: glass 1
+    400350: glass 10
+    400352: glass 11
+    400354: glass 12
+    400356: glass 13
+    400358: glass 14
+    400360: glass 15
+    400362: glass 16
+    400364: glass 17
+    400366: glass 18
+    400368: glass 19
+    400370: glass 2
+    400372: glass 20
+    400374: glass 3
+    400376: glass 4
+    400378: glass 5
+    400380: glass 6
+    400382: glass 7
+    400384: glass 8
+    400386: glass 9
+    400388: Group001
+    400390: group8
+    400392: group9
+    400394: Hospital1
+    400396: house1_007
+    400398: house1_016
+    400400: house1_029
+    400402: house1_031
+    400404: house1_032
+    400406: house1_035
+    400408: house1_036
+    400410: house1_037
+    400412: house1_038
+    400414: house1_5
+    400416: house1_6
+    400418: house2_007
+    400420: house2_008
+    400422: house2_009
+    400424: house2_010
+    400426: house2_012
+    400428: house2_013
+    400430: house2_014
+    400432: house2_015
+    400434: house2_016
+    400436: house2_017
+    400438: house2_018
+    400440: house2_019
+    400442: house2_020
+    400444: house2_021
+    400446: house2_022
+    400448: house2_023
+    400450: house2_024
+    400452: house2_025
+    400454: house2_026
+    400456: house2_027
+    400458: house2_028
+    400460: house2_029
+    400462: house2_030
+    400464: house2_031
+    400466: house2_1
+    400468: house2_2
+    400470: house2_4
+    400472: house3_020
+    400474: house3_039
+    400476: house3_049
+    400478: house3_064
+    400480: house3_068
+    400482: house3_4
+    400484: house3_5
+    400486: inside
+    400488: interior_house
+    400490: jewellerShop
+    400492: jewellery_door
+    400494: jewellery_interior
+    400496: jewellery_shop
+    400498: pawn_shop
+    400500: pCube17
+    400502: pCube20
+    400504: pCube21
+    400506: pCube24
+    400508: pCube25
+    400510: pCube7
+    400512: PIzza_Shop001
+    400514: polySurface1
+    400516: polySurface10
+    400518: polySurface11
+    400520: polySurface12
+    400522: polySurface13
+    400524: polySurface14
+    400526: polySurface15
+    400528: polySurface16
+    400530: polySurface17
+    400532: polySurface18
+    400534: polySurface19
+    400536: polySurface2
+    400538: polySurface20
+    400540: polySurface21
+    400542: polySurface22
+    400544: polySurface23
+    400546: polySurface24
+    400548: polySurface25
+    400550: polySurface26
+    400552: polySurface27
+    400554: polySurface28
+    400556: polySurface286
+    400558: polySurface286 1
+    400560: polySurface288
+    400562: polySurface288 1
+    400564: polySurface29
+    400566: polySurface3
+    400568: polySurface30
+    400570: polySurface31
+    400572: polySurface310
+    400574: polySurface310 1
+    400576: polySurface313
+    400578: polySurface313 1
+    400580: polySurface317
+    400582: polySurface317 1
+    400584: polySurface321
+    400586: polySurface321 1
+    400588: polySurface323
+    400590: polySurface38
+    400592: polySurface38 1
+    400594: polySurface4
+    400596: polySurface40
+    400598: polySurface40 1
+    400600: polySurface5
+    400602: polySurface57
+    400604: polySurface58
+    400606: polySurface59
+    400608: polySurface6
+    400610: polySurface60
+    400612: polySurface61
+    400614: polySurface63
+    400616: polySurface7
+    400618: polySurface797
+    400620: polySurface798
+    400622: polySurface799
+    400624: polySurface799 1
+    400626: polySurface8
+    400628: polySurface800
+    400630: polySurface800 1
+    400632: polySurface801
+    400634: polySurface801 1
+    400636: polySurface802
+    400638: polySurface802 1
+    400640: polySurface803
+    400642: polySurface803 1
+    400644: polySurface804
+    400646: polySurface805
+    400648: polySurface806
+    400650: polySurface9
+    400652: road
+    400654: set1_building010
+    400656: set1_building012
+    400658: set2_building007
+    400660: set2_building008
+    400662: set2_building01
+    400664: set2_building02
+    400666: set3_building05
+    400668: set3_building07
+    400670: Shape004
+    400672: Shape005
+    400674: Shape006
+    400676: shop
+    400678: street_light
+    400680: street_light1
+    400682: street_light10
+    400684: street_light11
+    400686: street_light12
+    400688: street_light13
+    400690: street_light14
+    400692: street_light15
+    400694: street_light16
+    400696: street_light17
+    400698: street_light18
+    400700: street_light19
+    400702: street_light2
+    400704: street_light20
+    400706: street_light21
+    400708: street_light22
+    400710: street_light23
+    400712: street_light24
+    400714: street_light25
+    400716: street_light26
+    400718: street_light27
+    400720: street_light28
+    400722: street_light29
+    400724: street_light3
+    400726: street_light30
+    400728: street_light31
+    400730: street_light32
+    400732: street_light33
+    400734: street_light34
+    400736: street_light35
+    400738: street_light36
+    400740: street_light37
+    400742: street_light38
+    400744: street_light39
+    400746: street_light4
+    400748: street_light40
+    400750: street_light41
+    400752: street_light42
+    400754: street_light43
+    400756: street_light5
+    400758: street_light6
+    400760: street_light7
+    400762: street_light8
+    400764: street_light9
+    400766: street_lights
+    400768: thief_env
+    400770: //RootNode
+    400772: trees
+    400774: upper
+    400776: upper 1
+    400778: upper 2
+    400780: upper 3
+    400782: venice_building1_006
+    400784: venice_building1_008
+    400786: venice_building1_009
+    400788: venice_building1_010
+    400790: venice_building2_005
+    400792: venice_building2_006
+    400794: venice_building2_007
+    400796: venice_building2_008
+    400798: venice_building3_005
+    400800: venice_building3_006
+    400802: venice_building3_007
+    400804: venice_building3_008
+    400806: venice_building3_009
+    400808: venice_building5_004
+    400810: venice_building5_005
+    400812: venice_building5_006
+    400814: white_wood
+    2100000: T_Door_church_BC
+    2100002: M_Church_sandstone_01
+    2100004: lambert9
+    2100006: M_Mixed_stone_wall_03_sand
+    2100008: Default_Material
+    2100010: lambert10
+    2100012: lambert6
+    2100014: lambert11
+    2100016: lambert3
+    2100018: 01 - Default
+    2100020: 01 - Default2
+    2100022: 01 - Default3
+    2100024: residential1
+    2100026: residential2
+    2100028: residential3
+    2100030: Pavement_02
+    2100032: lambert5
+    2100034: lambert7
+    2100036: vinece_1
+    2100038: vinece_2
+    2100040: vinece_3
+    2100042: vinece_5
+    2100044: Hospital
+    2100046: bc_set4
+    2100048: lambert2
+    2100050: bc_set3
+    2100052: Road
+    2100054: Material3
+    2100056: Material2
+    2100058: Material1
+    2100060: Material8
+    2100062: Material6
+    2100064: Material5
+    2100066: Material4
+    2100068: Courier_Service_01
+    2100070: Courier_Service
+    2100072: Material7
+    2100074: bcn_set2
+    2100076: lambert12
+    2100078: Arch_Glass
+    2100080: Charleston
+    2100082: 20 - Defaulte
+    2100084: Solid Black
+    2100086: Emperador Light
+    2100088: "\u041C\u0435\u0442\u0430\u043B\u043B-\u041D\u0435\u0440\u0436\u0430\u0432\u0435\u044E\u0449"
+    2100090: "\u041C\u0435\u0442\u0430\u043B\u043B-\u0425\u0440\u043E\u043C"
+    2100092: "\u041F\u043E\u0432\u0435\u0440\u0445.-\u0411\u0435\u043B\u0430\u044F"
+    2100094: Opaque White2
+    2100096: 19 - Defaults
+    2100098: procedural_stone_05
+    2100100: "\u0421\u0442\u0435\u043A\u043B\u043E \u0437\u0435\u0440\u043A\u0430\u043B\u044C\u043D\u043E"
+    2100102: roof22s
+    2100104: Opaque White
+    2100106: AM109_066_wood
+    2100108: lambert16
+    2100110: lambert15
+    2100112: lambert1
+    2100114: lambert18
+    2100116: lambert17
+    2100118: lambert14
+    2100120: tree_leaves
+    2100122: tree_bark
+    2100124: lambert19
+    2300000: 0      011
+    2300002: 1      011
+    2300004: 11     011
+    2300006: 12     011
+    2300008: 13     011
+    2300010: 14     011
+    2300012: 15     011Shape
+    2300014: 16     011
+    2300016: 17     011
+    2300018: 18     011
+    2300020: 2      011
+    2300022: 22     011
+    2300024: 23     011
+    2300026: 24     011
+    2300028: 25     011
+    2300030: 26     011
+    2300032: 27     011
+    2300034: 28     011
+    2300036: 3      011
+    2300038: 31     011
+    2300040: 32     011
+    2300042: 33     011
+    2300044: 34     011
+    2300046: 5      011
+    2300048: 6      011
+    2300050: 7      011
+    2300052: AvizstudioToolsATiles006
+    2300054: AvizstudioToolsATiles011
+    2300056: bc_set3_10
+    2300058: bc_set3_11
+    2300060: bc_set3_12
+    2300062: bc_set3_6
+    2300064: bc_set3_7
+    2300066: bc_set3_9
+    2300068: bc_set4_7
+    2300070: bc_set4_8
+    2300072: bcn_set2_2
+    2300074: bcn_set2_3
+    2300076: bcn_set2_4
+    2300078: bcn_set3_2
+    2300080: bcn_set3_3
+    2300082: bcn_set3_4
+    2300084: border
+    2300086: border 1
+    2300088: border 2
+    2300090: border 3
+    2300092: border 4
+    2300094: border 5
+    2300096: border 6
+    2300098: border 7
+    2300100: Building_0106
+    2300102: Building_0107
+    2300104: Building_0108
+    2300106: Building_0109
+    2300108: Building_037
+    2300110: Building_044
+    2300112: Building_045
+    2300114: Building_048
+    2300116: Building_054
+    2300118: Building_055
+    2300120: Building_056
+    2300122: Building_057
+    2300124: Building_060
+    2300126: Building_077
+    2300128: Building_078
+    2300130: Building_079
+    2300132: Building_080
+    2300134: Building_085
+    2300136: Building_086
+    2300138: Building_087
+    2300140: Building_088
+    2300142: Building_089
+    2300144: Building_090
+    2300146: Building_091
+    2300148: christ
+    2300150: Church
+    2300152: church1
+    2300154: church2
+    2300156: church5
+    2300158: Church6
+    2300160: church_big_woode_casing_LOD1
+    2300162: church_big_woode_casing_LOD1_1
+    2300164: church_small_woode_casing_LOD1
+    2300166: church_small_woode_casing_LOD1_1
+    2300168: church_small_woode_casing_LOD1_2
+    2300170: door 1
+    2300172: door 10
+    2300174: door 11
+    2300176: door 12
+    2300178: door 13
+    2300180: door 14
+    2300182: door 15
+    2300184: door 16
+    2300186: door 17
+    2300188: door 18
+    2300190: door 19
+    2300192: door 2
+    2300194: door 20
+    2300196: door 21
+    2300198: door 22
+    2300200: door 23
+    2300202: door 3
+    2300204: door 4
+    2300206: door 5
+    2300208: door 6
+    2300210: door 7
+    2300212: door 8
+    2300214: door 9
+    2300216: door1 1
+    2300218: door1 2
+    2300220: door1 3
+    2300222: door1 4
+    2300224: door1 5
+    2300226: door1 6
+    2300228: door2 1
+    2300230: door2 2
+    2300232: door3
+    2300234: door3 1
+    2300236: door4
+    2300238: door4 1
+    2300240: door_big_left_wing_LOD1
+    2300242: door_big_left_wing_LOD1_1
+    2300244: door_big_right_wing_LOD1
+    2300246: door_big_right_wing_LOD1_1
+    2300248: door_handle_LOD1_3
+    2300250: door_handle_LOD1_5
+    2300252: door_small_LOD1
+    2300254: fence
+    2300256: fence1
+    2300258: floor
+    2300260: frame
+    2300262: frame 1
+    2300264: frame 10
+    2300266: frame 11
+    2300268: frame 2
+    2300270: frame 3
+    2300272: frame 4
+    2300274: frame 5
+    2300276: frame 6
+    2300278: frame 7
+    2300280: frame 8
+    2300282: frame 9
+    2300284: glass
+    2300286: glass 1
+    2300288: glass 10
+    2300290: glass 11
+    2300292: glass 12
+    2300294: glass 13
+    2300296: glass 14
+    2300298: glass 15
+    2300300: glass 16
+    2300302: glass 17
+    2300304: glass 18
+    2300306: glass 19
+    2300308: glass 2
+    2300310: glass 20
+    2300312: glass 3
+    2300314: glass 4
+    2300316: glass 5
+    2300318: glass 6
+    2300320: glass 7
+    2300322: glass 8
+    2300324: glass 9
+    2300326: Hospital1
+    2300328: house1_007
+    2300330: house1_016
+    2300332: house1_029
+    2300334: house1_031
+    2300336: house1_032
+    2300338: house1_035
+    2300340: house1_036
+    2300342: house1_037
+    2300344: house1_038
+    2300346: house1_5
+    2300348: house1_6
+    2300350: house2_007
+    2300352: house2_008
+    2300354: house2_009
+    2300356: house2_010
+    2300358: house2_012
+    2300360: house2_013
+    2300362: house2_014
+    2300364: house2_015
+    2300366: house2_016
+    2300368: house2_017
+    2300370: house2_018
+    2300372: house2_019
+    2300374: house2_020
+    2300376: house2_021
+    2300378: house2_022
+    2300380: house2_023
+    2300382: house2_024
+    2300384: house2_025
+    2300386: house2_026
+    2300388: house2_027
+    2300390: house2_028
+    2300392: house2_029
+    2300394: house2_030
+    2300396: house2_031
+    2300398: house2_1
+    2300400: house2_2
+    2300402: house2_4
+    2300404: house3_020
+    2300406: house3_039
+    2300408: house3_049
+    2300410: house3_064
+    2300412: house3_068
+    2300414: house3_4
+    2300416: house3_5
+    2300418: inside
+    2300420: jewellery_door
+    2300422: jewellery_interior
+    2300424: jewellery_shop
+    2300426: pCube17
+    2300428: pCube20
+    2300430: pCube21
+    2300432: pCube24
+    2300434: pCube25
+    2300436: pCube7
+    2300438: PIzza_Shop001
+    2300440: polySurface1
+    2300442: polySurface10
+    2300444: polySurface11
+    2300446: polySurface12
+    2300448: polySurface13
+    2300450: polySurface14
+    2300452: polySurface15
+    2300454: polySurface16
+    2300456: polySurface17
+    2300458: polySurface18
+    2300460: polySurface19
+    2300462: polySurface2
+    2300464: polySurface20
+    2300466: polySurface21
+    2300468: polySurface22
+    2300470: polySurface23
+    2300472: polySurface24
+    2300474: polySurface25
+    2300476: polySurface26
+    2300478: polySurface27
+    2300480: polySurface28
+    2300482: polySurface286
+    2300484: polySurface286 1
+    2300486: polySurface288
+    2300488: polySurface288 1
+    2300490: polySurface29
+    2300492: polySurface3
+    2300494: polySurface30
+    2300496: polySurface31
+    2300498: polySurface310
+    2300500: polySurface310 1
+    2300502: polySurface313
+    2300504: polySurface313 1
+    2300506: polySurface317
+    2300508: polySurface317 1
+    2300510: polySurface321
+    2300512: polySurface321 1
+    2300514: polySurface323
+    2300516: polySurface38
+    2300518: polySurface38 1
+    2300520: polySurface4
+    2300522: polySurface40
+    2300524: polySurface40 1
+    2300526: polySurface5
+    2300528: polySurface57
+    2300530: polySurface58
+    2300532: polySurface59
+    2300534: polySurface6
+    2300536: polySurface60
+    2300538: polySurface61
+    2300540: polySurface63
+    2300542: polySurface7
+    2300544: polySurface797
+    2300546: polySurface798
+    2300548: polySurface799
+    2300550: polySurface799 1
+    2300552: polySurface8
+    2300554: polySurface800
+    2300556: polySurface800 1
+    2300558: polySurface801
+    2300560: polySurface801 1
+    2300562: polySurface802
+    2300564: polySurface802 1
+    2300566: polySurface803
+    2300568: polySurface803 1
+    2300570: polySurface804
+    2300572: polySurface805
+    2300574: polySurface806
+    2300576: polySurface9
+    2300578: road
+    2300580: set1_building010
+    2300582: set1_building012
+    2300584: set2_building007
+    2300586: set2_building008
+    2300588: set2_building01
+    2300590: set2_building02
+    2300592: set3_building05
+    2300594: set3_building07
+    2300596: Shape004
+    2300598: Shape005
+    2300600: Shape006
+    2300602: shop
+    2300604: street_light
+    2300606: street_light1
+    2300608: street_light10
+    2300610: street_light11
+    2300612: street_light12
+    2300614: street_light13
+    2300616: street_light14
+    2300618: street_light15
+    2300620: street_light16
+    2300622: street_light17
+    2300624: street_light18
+    2300626: street_light19
+    2300628: street_light2
+    2300630: street_light20
+    2300632: street_light21
+    2300634: street_light22
+    2300636: street_light23
+    2300638: street_light24
+    2300640: street_light25
+    2300642: street_light26
+    2300644: street_light27
+    2300646: street_light28
+    2300648: street_light29
+    2300650: street_light3
+    2300652: street_light30
+    2300654: street_light31
+    2300656: street_light32
+    2300658: street_light33
+    2300660: street_light34
+    2300662: street_light35
+    2300664: street_light36
+    2300666: street_light37
+    2300668: street_light38
+    2300670: street_light39
+    2300672: street_light4
+    2300674: street_light40
+    2300676: street_light41
+    2300678: street_light42
+    2300680: street_light43
+    2300682: street_light5
+    2300684: street_light6
+    2300686: street_light7
+    2300688: street_light8
+    2300690: street_light9
+    2300692: upper
+    2300694: upper 1
+    2300696: upper 2
+    2300698: upper 3
+    2300700: venice_building1_006
+    2300702: venice_building1_008
+    2300704: venice_building1_009
+    2300706: venice_building1_010
+    2300708: venice_building2_005
+    2300710: venice_building2_006
+    2300712: venice_building2_007
+    2300714: venice_building2_008
+    2300716: venice_building3_005
+    2300718: venice_building3_006
+    2300720: venice_building3_007
+    2300722: venice_building3_008
+    2300724: venice_building3_009
+    2300726: venice_building5_004
+    2300728: venice_building5_005
+    2300730: venice_building5_006
+    2300732: white_wood
+    3300000: 0      011
+    3300002: 1      011
+    3300004: 11     011
+    3300006: 12     011
+    3300008: 13     011
+    3300010: 14     011
+    3300012: 15     011Shape
+    3300014: 16     011
+    3300016: 17     011
+    3300018: 18     011
+    3300020: 2      011
+    3300022: 22     011
+    3300024: 23     011
+    3300026: 24     011
+    3300028: 25     011
+    3300030: 26     011
+    3300032: 27     011
+    3300034: 28     011
+    3300036: 3      011
+    3300038: 31     011
+    3300040: 32     011
+    3300042: 33     011
+    3300044: 34     011
+    3300046: 5      011
+    3300048: 6      011
+    3300050: 7      011
+    3300052: AvizstudioToolsATiles006
+    3300054: AvizstudioToolsATiles011
+    3300056: bc_set3_10
+    3300058: bc_set3_11
+    3300060: bc_set3_12
+    3300062: bc_set3_6
+    3300064: bc_set3_7
+    3300066: bc_set3_9
+    3300068: bc_set4_7
+    3300070: bc_set4_8
+    3300072: bcn_set2_2
+    3300074: bcn_set2_3
+    3300076: bcn_set2_4
+    3300078: bcn_set3_2
+    3300080: bcn_set3_3
+    3300082: bcn_set3_4
+    3300084: border
+    3300086: border 1
+    3300088: border 2
+    3300090: border 3
+    3300092: border 4
+    3300094: border 5
+    3300096: border 6
+    3300098: border 7
+    3300100: Building_0106
+    3300102: Building_0107
+    3300104: Building_0108
+    3300106: Building_0109
+    3300108: Building_037
+    3300110: Building_044
+    3300112: Building_045
+    3300114: Building_048
+    3300116: Building_054
+    3300118: Building_055
+    3300120: Building_056
+    3300122: Building_057
+    3300124: Building_060
+    3300126: Building_077
+    3300128: Building_078
+    3300130: Building_079
+    3300132: Building_080
+    3300134: Building_085
+    3300136: Building_086
+    3300138: Building_087
+    3300140: Building_088
+    3300142: Building_089
+    3300144: Building_090
+    3300146: Building_091
+    3300148: christ
+    3300150: Church
+    3300152: church1
+    3300154: church2
+    3300156: church5
+    3300158: Church6
+    3300160: church_big_woode_casing_LOD1
+    3300162: church_big_woode_casing_LOD1_1
+    3300164: church_small_woode_casing_LOD1
+    3300166: church_small_woode_casing_LOD1_1
+    3300168: church_small_woode_casing_LOD1_2
+    3300170: door 1
+    3300172: door 10
+    3300174: door 11
+    3300176: door 12
+    3300178: door 13
+    3300180: door 14
+    3300182: door 15
+    3300184: door 16
+    3300186: door 17
+    3300188: door 18
+    3300190: door 19
+    3300192: door 2
+    3300194: door 20
+    3300196: door 21
+    3300198: door 22
+    3300200: door 23
+    3300202: door 3
+    3300204: door 4
+    3300206: door 5
+    3300208: door 6
+    3300210: door 7
+    3300212: door 8
+    3300214: door 9
+    3300216: door1 1
+    3300218: door1 2
+    3300220: door1 3
+    3300222: door1 4
+    3300224: door1 5
+    3300226: door1 6
+    3300228: door2 1
+    3300230: door2 2
+    3300232: door3
+    3300234: door3 1
+    3300236: door4
+    3300238: door4 1
+    3300240: door_big_left_wing_LOD1
+    3300242: door_big_left_wing_LOD1_1
+    3300244: door_big_right_wing_LOD1
+    3300246: door_big_right_wing_LOD1_1
+    3300248: door_handle_LOD1_3
+    3300250: door_handle_LOD1_5
+    3300252: door_small_LOD1
+    3300254: fence
+    3300256: fence1
+    3300258: floor
+    3300260: frame
+    3300262: frame 1
+    3300264: frame 10
+    3300266: frame 11
+    3300268: frame 2
+    3300270: frame 3
+    3300272: frame 4
+    3300274: frame 5
+    3300276: frame 6
+    3300278: frame 7
+    3300280: frame 8
+    3300282: frame 9
+    3300284: glass
+    3300286: glass 1
+    3300288: glass 10
+    3300290: glass 11
+    3300292: glass 12
+    3300294: glass 13
+    3300296: glass 14
+    3300298: glass 15
+    3300300: glass 16
+    3300302: glass 17
+    3300304: glass 18
+    3300306: glass 19
+    3300308: glass 2
+    3300310: glass 20
+    3300312: glass 3
+    3300314: glass 4
+    3300316: glass 5
+    3300318: glass 6
+    3300320: glass 7
+    3300322: glass 8
+    3300324: glass 9
+    3300326: Hospital1
+    3300328: house1_007
+    3300330: house1_016
+    3300332: house1_029
+    3300334: house1_031
+    3300336: house1_032
+    3300338: house1_035
+    3300340: house1_036
+    3300342: house1_037
+    3300344: house1_038
+    3300346: house1_5
+    3300348: house1_6
+    3300350: house2_007
+    3300352: house2_008
+    3300354: house2_009
+    3300356: house2_010
+    3300358: house2_012
+    3300360: house2_013
+    3300362: house2_014
+    3300364: house2_015
+    3300366: house2_016
+    3300368: house2_017
+    3300370: house2_018
+    3300372: house2_019
+    3300374: house2_020
+    3300376: house2_021
+    3300378: house2_022
+    3300380: house2_023
+    3300382: house2_024
+    3300384: house2_025
+    3300386: house2_026
+    3300388: house2_027
+    3300390: house2_028
+    3300392: house2_029
+    3300394: house2_030
+    3300396: house2_031
+    3300398: house2_1
+    3300400: house2_2
+    3300402: house2_4
+    3300404: house3_020
+    3300406: house3_039
+    3300408: house3_049
+    3300410: house3_064
+    3300412: house3_068
+    3300414: house3_4
+    3300416: house3_5
+    3300418: inside
+    3300420: jewellery_door
+    3300422: jewellery_interior
+    3300424: jewellery_shop
+    3300426: pCube17
+    3300428: pCube20
+    3300430: pCube21
+    3300432: pCube24
+    3300434: pCube25
+    3300436: pCube7
+    3300438: PIzza_Shop001
+    3300440: polySurface1
+    3300442: polySurface10
+    3300444: polySurface11
+    3300446: polySurface12
+    3300448: polySurface13
+    3300450: polySurface14
+    3300452: polySurface15
+    3300454: polySurface16
+    3300456: polySurface17
+    3300458: polySurface18
+    3300460: polySurface19
+    3300462: polySurface2
+    3300464: polySurface20
+    3300466: polySurface21
+    3300468: polySurface22
+    3300470: polySurface23
+    3300472: polySurface24
+    3300474: polySurface25
+    3300476: polySurface26
+    3300478: polySurface27
+    3300480: polySurface28
+    3300482: polySurface286
+    3300484: polySurface286 1
+    3300486: polySurface288
+    3300488: polySurface288 1
+    3300490: polySurface29
+    3300492: polySurface3
+    3300494: polySurface30
+    3300496: polySurface31
+    3300498: polySurface310
+    3300500: polySurface310 1
+    3300502: polySurface313
+    3300504: polySurface313 1
+    3300506: polySurface317
+    3300508: polySurface317 1
+    3300510: polySurface321
+    3300512: polySurface321 1
+    3300514: polySurface323
+    3300516: polySurface38
+    3300518: polySurface38 1
+    3300520: polySurface4
+    3300522: polySurface40
+    3300524: polySurface40 1
+    3300526: polySurface5
+    3300528: polySurface57
+    3300530: polySurface58
+    3300532: polySurface59
+    3300534: polySurface6
+    3300536: polySurface60
+    3300538: polySurface61
+    3300540: polySurface63
+    3300542: polySurface7
+    3300544: polySurface797
+    3300546: polySurface798
+    3300548: polySurface799
+    3300550: polySurface799 1
+    3300552: polySurface8
+    3300554: polySurface800
+    3300556: polySurface800 1
+    3300558: polySurface801
+    3300560: polySurface801 1
+    3300562: polySurface802
+    3300564: polySurface802 1
+    3300566: polySurface803
+    3300568: polySurface803 1
+    3300570: polySurface804
+    3300572: polySurface805
+    3300574: polySurface806
+    3300576: polySurface9
+    3300578: road
+    3300580: set1_building010
+    3300582: set1_building012
+    3300584: set2_building007
+    3300586: set2_building008
+    3300588: set2_building01
+    3300590: set2_building02
+    3300592: set3_building05
+    3300594: set3_building07
+    3300596: Shape004
+    3300598: Shape005
+    3300600: Shape006
+    3300602: shop
+    3300604: street_light
+    3300606: street_light1
+    3300608: street_light10
+    3300610: street_light11
+    3300612: street_light12
+    3300614: street_light13
+    3300616: street_light14
+    3300618: street_light15
+    3300620: street_light16
+    3300622: street_light17
+    3300624: street_light18
+    3300626: street_light19
+    3300628: street_light2
+    3300630: street_light20
+    3300632: street_light21
+    3300634: street_light22
+    3300636: street_light23
+    3300638: street_light24
+    3300640: street_light25
+    3300642: street_light26
+    3300644: street_light27
+    3300646: street_light28
+    3300648: street_light29
+    3300650: street_light3
+    3300652: street_light30
+    3300654: street_light31
+    3300656: street_light32
+    3300658: street_light33
+    3300660: street_light34
+    3300662: street_light35
+    3300664: street_light36
+    3300666: street_light37
+    3300668: street_light38
+    3300670: street_light39
+    3300672: street_light4
+    3300674: street_light40
+    3300676: street_light41
+    3300678: street_light42
+    3300680: street_light43
+    3300682: street_light5
+    3300684: street_light6
+    3300686: street_light7
+    3300688: street_light8
+    3300690: street_light9
+    3300692: upper
+    3300694: upper 1
+    3300696: upper 2
+    3300698: upper 3
+    3300700: venice_building1_006
+    3300702: venice_building1_008
+    3300704: venice_building1_009
+    3300706: venice_building1_010
+    3300708: venice_building2_005
+    3300710: venice_building2_006
+    3300712: venice_building2_007
+    3300714: venice_building2_008
+    3300716: venice_building3_005
+    3300718: venice_building3_006
+    3300720: venice_building3_007
+    3300722: venice_building3_008
+    3300724: venice_building3_009
+    3300726: venice_building5_004
+    3300728: venice_building5_005
+    3300730: venice_building5_006
+    3300732: white_wood
+    4300000: door_handle_LOD1_5
+    4300002: door_handle_LOD1_3
+    4300004: door_small_LOD1
+    4300006: door_big_left_wing_LOD1
+    4300008: door_big_right_wing_LOD1
+    4300010: church_small_woode_casing_LOD1
+    4300012: church_small_woode_casing_LOD1_1
+    4300014: door_big_left_wing_LOD1_1
+    4300016: door_big_right_wing_LOD1_1
+    4300018: church_small_woode_casing_LOD1_2
+    4300020: church_big_woode_casing_LOD1
+    4300022: church_big_woode_casing_LOD1_1
+    4300024: Church
+    4300026: church1
+    4300028: floor
+    4300030: church2
+    4300032: christ
+    4300034: church5
+    4300036: polySurface1
+    4300038: polySurface2
+    4300040: polySurface3
+    4300042: polySurface4
+    4300044: polySurface5
+    4300046: polySurface6
+    4300048: polySurface7
+    4300050: polySurface8
+    4300052: polySurface9
+    4300054: polySurface10
+    4300056: polySurface11
+    4300058: polySurface12
+    4300060: polySurface13
+    4300062: polySurface14
+    4300064: polySurface15
+    4300066: polySurface16
+    4300068: polySurface17
+    4300070: polySurface18
+    4300072: polySurface19
+    4300074: polySurface20
+    4300076: polySurface21
+    4300078: polySurface22
+    4300080: polySurface23
+    4300082: polySurface24
+    4300084: polySurface25
+    4300086: polySurface26
+    4300088: polySurface27
+    4300090: polySurface28
+    4300092: polySurface29
+    4300094: polySurface30
+    4300096: polySurface31
+    4300098: polySurface799
+    4300100: polySurface800
+    4300102: polySurface801
+    4300104: polySurface802
+    4300106: polySurface803
+    4300108: polySurface804
+    4300110: polySurface805
+    4300112: polySurface806
+    4300114: polySurface799
+    4300116: polySurface800
+    4300118: polySurface801
+    4300120: polySurface802
+    4300122: polySurface803
+    4300124: Church6
+    4300126: pCube7
+    4300128: set2_building01
+    4300130: set2_building02
+    4300132: set3_building05
+    4300134: set3_building07
+    4300136: set2_building007
+    4300138: set1_building010
+    4300140: set1_building012
+    4300142: house1_5
+    4300144: house2_1
+    4300146: house2_2
+    4300148: house2_4
+    4300150: house3_4
+    4300152: house1_007
+    4300154: house3_020
+    4300156: house3_039
+    4300158: house1_016
+    4300160: Shape004
+    4300162: house2_007
+    4300164: house2_008
+    4300166: house2_009
+    4300168: house2_010
+    4300170: house2_012
+    4300172: house2_013
+    4300174: house2_014
+    4300176: house2_015
+    4300178: house2_016
+    4300180: house2_017
+    4300182: house2_018
+    4300184: house2_019
+    4300186: house2_020
+    4300188: house2_021
+    4300190: house2_022
+    4300192: house2_023
+    4300194: house2_024
+    4300196: house2_025
+    4300198: house2_026
+    4300200: house2_027
+    4300202: house2_028
+    4300204: house2_029
+    4300206: house2_030
+    4300208: house2_031
+    4300210: house1_029
+    4300212: house1_031
+    4300214: house1_032
+    4300216: house1_035
+    4300218: house1_036
+    4300220: house1_037
+    4300222: house3_049
+    4300224: house3_064
+    4300226: house3_068
+    4300228: venice_building1_008
+    4300230: venice_building1_009
+    4300232: venice_building1_010
+    4300234: venice_building1_006
+    4300236: venice_building2_006
+    4300238: venice_building2_005
+    4300240: venice_building2_007
+    4300242: venice_building2_008
+    4300244: venice_building3_006
+    4300246: venice_building3_007
+    4300248: venice_building3_008
+    4300250: venice_building3_005
+    4300252: venice_building5_004
+    4300254: venice_building5_005
+    4300256: venice_building5_006
+    4300258: Hospital1
+    4300260: bc_set4_7
+    4300262: bc_set4_8
+    4300264: pCube17
+    4300266: pCube20
+    4300268: pCube21
+    4300270: pCube24
+    4300272: bc_set3_10
+    4300274: bc_set3_9
+    4300276: bc_set3_7
+    4300278: bc_set3_6
+    4300280: bc_set3_11
+    4300282: road
+    4300284: Shape005
+    4300286: bc_set3_12
+    4300288: set2_building008
+    4300290: house1_6
+    4300292: house1_038
+    4300294: house3_5
+    4300296: pCube25
+    4300298: venice_building3_009
+    4300300: Building_037
+    4300302: Building_044
+    4300304: Building_045
+    4300306: Building_048
+    4300308: Building_054
+    4300310: Building_055
+    4300312: Building_056
+    4300314: Building_057
+    4300316: PIzza_Shop001
+    4300318: Building_060
+    4300320: bcn_set2_2
+    4300322: bcn_set2_3
+    4300324: bcn_set3_2
+    4300326: Building_077
+    4300328: Building_078
+    4300330: Building_079
+    4300332: Building_080
+    4300334: Building_085
+    4300336: Building_086
+    4300338: Building_087
+    4300340: Building_088
+    4300342: Building_089
+    4300344: Building_090
+    4300346: Building_091
+    4300348: Building_0106
+    4300350: Building_0107
+    4300352: bcn_set2_4
+    4300354: bcn_set3_3
+    4300356: bcn_set3_4
+    4300358: Building_0108
+    4300360: Building_0109
+    4300362: fence1
+    4300364: fence
+    4300366: Shape006
+    4300368: glass
+    4300370: 0      011
+    4300372: 1      011
+    4300374: 2      011
+    4300376: 3      011
+    4300378: 5      011
+    4300380: 6      011
+    4300382: 7      011
+    4300384: white_wood
+    4300386: 11     011
+    4300388: 12     011
+    4300390: 13     011
+    4300392: 14     011
+    4300394: 16     011
+    4300396: 17     011
+    4300398: 18     011
+    4300400: polySurface323
+    4300402: 26     011
+    4300404: 22     011
+    4300406: 23     011
+    4300408: 24     011
+    4300410: 25     011
+    4300412: 27     011
+    4300414: 28     011
+    4300416: 31     011
+    4300418: 32     011
+    4300420: 33     011
+    4300422: 34     011
+    4300424: AvizstudioToolsATiles006
+    4300426: AvizstudioToolsATiles011
+    4300428: polySurface797
+    4300430: 15     011Shape
+    4300432: door
+    4300434: polySurface38
+    4300436: door1
+    4300438: polySurface40
+    4300440: door
+    4300442: polySurface38
+    4300444: door1
+    4300446: polySurface40
+    4300448: glass
+    4300450: upper
+    4300452: door3
+    4300454: door4
+    4300456: upper
+    4300458: door3
+    4300460: door4
+    4300462: glass
+    4300464: upper
+    4300466: door1
+    4300468: polySurface310
+    4300470: door
+    4300472: polySurface288
+    4300474: upper
+    4300476: door1
+    4300478: polySurface310
+    4300480: door
+    4300482: polySurface288
+    4300484: polySurface286
+    4300486: polySurface321
+    4300488: polySurface313
+    4300490: polySurface317
+    4300492: polySurface286
+    4300494: polySurface321
+    4300496: polySurface313
+    4300498: polySurface317
+    4300500: border
+    4300502: door
+    4300504: glass
+    4300506: border
+    4300508: door
+    4300510: glass
+    4300512: border
+    4300514: door
+    4300516: glass
+    4300518: border
+    4300520: door
+    4300522: glass
+    4300524: door
+    4300526: glass
+    4300528: frame
+    4300530: door
+    4300532: glass
+    4300534: frame
+    4300536: door
+    4300538: glass
+    4300540: frame
+    4300542: door
+    4300544: glass
+    4300546: frame
+    4300548: door
+    4300550: glass
+    4300552: frame
+    4300554: door
+    4300556: glass
+    4300558: frame
+    4300560: door
+    4300562: glass
+    4300564: frame
+    4300566: door
+    4300568: glass
+    4300570: frame
+    4300572: door
+    4300574: glass
+    4300576: frame
+    4300578: door
+    4300580: glass
+    4300582: frame
+    4300584: border
+    4300586: door
+    4300588: glass
+    4300590: border
+    4300592: door
+    4300594: glass
+    4300596: border
+    4300598: door
+    4300600: glass
+    4300602: border
+    4300604: door
+    4300606: glass
+    4300608: frame
+    4300610: door1
+    4300612: door2
+    4300614: frame
+    4300616: door1
+    4300618: door2
+    4300620: jewellery_shop
+    4300622: jewellery_interior
+    4300624: jewellery_door
+    4300626: door
+    4300628: shop
+    4300630: inside
+    4300632: street_light8
+    4300634: street_light9
+    4300636: street_light10
+    4300638: street_light11
+    4300640: street_light12
+    4300642: street_light13
+    4300644: street_light14
+    4300646: street_light15
+    4300648: street_light7
+    4300650: street_light6
+    4300652: street_light5
+    4300654: street_light4
+    4300656: street_light3
+    4300658: street_light2
+    4300660: street_light1
+    4300662: street_light
+    4300664: street_light28
+    4300666: street_light29
+    4300668: street_light30
+    4300670: street_light31
+    4300672: street_light32
+    4300674: street_light33
+    4300676: street_light34
+    4300678: street_light35
+    4300680: street_light36
+    4300682: street_light37
+    4300684: street_light38
+    4300686: street_light39
+    4300688: street_light40
+    4300690: street_light41
+    4300692: street_light42
+    4300694: street_light43
+    4300696: street_light16
+    4300698: street_light17
+    4300700: street_light18
+    4300702: street_light19
+    4300704: street_light20
+    4300706: street_light21
+    4300708: street_light22
+    4300710: street_light23
+    4300712: street_light24
+    4300714: street_light25
+    4300716: street_light26
+    4300718: street_light27
+    4300720: polySurface57
+    4300722: polySurface58
+    4300724: polySurface59
+    4300726: polySurface60
+    4300728: polySurface61
+    4300730: polySurface63
+    4300732: polySurface798
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 67c97e9ce184e48e9aa8f5a4691eddf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default2
+    second: {fileID: 2100000, guid: 4e2bd077071e24c06ad5a084957f1e0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default3
+    second: {fileID: 2100000, guid: 16e4061f70a194c1c8601f2f7ca10c1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Defaults
+    second: {fileID: 2100000, guid: 8d9538d4b374b419e9d11a2c2d71a6f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Defaulte
+    second: {fileID: 2100000, guid: 610948161bfac487c92a5599b7a703c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM109_066_wood
+    second: {fileID: 2100000, guid: 4bed4f83594b14c249b2cc0432312347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arch_Glass
+    second: {fileID: 2100000, guid: 9e4e3b235a7a540e3bf52d243747597d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Charleston
+    second: {fileID: 2100000, guid: be362fcebd4b44696b409496c31f5ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Courier_Service
+    second: {fileID: 2100000, guid: 261e0cdea36064152a82b9633e06b45d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Courier_Service_01
+    second: {fileID: 2100000, guid: 4b13e4a08b443490e8d4ec0aa8d31efd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: d679ef567ddc340e8bd226e3b8c2767e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emperador Light
+    second: {fileID: 2100000, guid: 3edfdd87ddb8a4448a10466323ba7c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hospital
+    second: {fileID: 2100000, guid: 41b13e4e115a34e04b2ae540247dd4bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Church_sandstone_01
+    second: {fileID: 2100000, guid: e81844185acf9446abfa7c3207d24848, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Mixed_stone_wall_03_sand
+    second: {fileID: 2100000, guid: da6adba67f3134c1cbcfee0673dd05f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material1
+    second: {fileID: 2100000, guid: 462603cbfbbe3488393f41a43c7b0b2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material2
+    second: {fileID: 2100000, guid: 1f4d775a60481498492a83afaa4a4099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material3
+    second: {fileID: 2100000, guid: b57cc2ef76d354db3bfb8ddfc3b5651f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material4
+    second: {fileID: 2100000, guid: 8a8bb5822a5054f119b59345c1e81a26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material5
+    second: {fileID: 2100000, guid: 11b209d12a4f64d51bbb7cb3ae13cfb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material6
+    second: {fileID: 2100000, guid: 78f2b9c6b9a584fee85ef001697b21a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material7
+    second: {fileID: 2100000, guid: 6ae20a300874a4e13b3c4dc0aafb2fd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material8
+    second: {fileID: 2100000, guid: 14d48a539f40f45a48d8acd6a0e43979, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opaque White
+    second: {fileID: 2100000, guid: 51b453cdb0f7740158435fb4ac3f2b0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opaque White2
+    second: {fileID: 2100000, guid: 2a664bb6df78b4df78d15c65239da624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pavement_02
+    second: {fileID: 2100000, guid: 30f56c5bca07c440d88b273f0ccc642e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road
+    second: {fileID: 2100000, guid: eb30cf5eb9cb24726bfaf57c065a2bb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solid Black
+    second: {fileID: 2100000, guid: 3050c1e961403472485ae09e51193a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T_Door_church_BC
+    second: {fileID: 2100000, guid: c05e8146c522448c8a554a997536476a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc_set3
+    second: {fileID: 2100000, guid: 9cf6216a995d346eab2d148e716e33fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc_set4
+    second: {fileID: 2100000, guid: b70c9cdcad245437daaf6fd772d42980, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bcn_set2
+    second: {fileID: 2100000, guid: b193f67b17805407fa736ee7d60a1da1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: c712086361f434a2fbe77647a8a9e348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: f54b118921342439f97f40918b26393f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert11
+    second: {fileID: 2100000, guid: 61ec6f3b8adae48df8a28831811bc2e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: 80001f9f512bd4f618fab29e5e34e665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14
+    second: {fileID: 2100000, guid: 7cb1a0161b6614ba486c055875cfb8e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert15
+    second: {fileID: 2100000, guid: 1dc81199264994c3aa364e585176af13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert16
+    second: {fileID: 2100000, guid: 8f591fb420c574d3a9422d035cf7ec0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert17
+    second: {fileID: 2100000, guid: cd4eb3bb9b6f54386a0f805f2a695735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert18
+    second: {fileID: 2100000, guid: 470afea178a0d445a8586e68998d254b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 828b1cfd0e90a4a9d83c2ed58c5ff706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 5848bd2c30ab84e8f89b6e744d0d6a88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: b8864ef437ca14153b9696ee5163b028, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 28f875ce1c0954ba8a541d6710584cf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: c35b54a82fdb340ee88f6cbfe873d1b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: ad8ca865dd2f7470485a0553c1e23e60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: procedural_stone_05
+    second: {fileID: 2100000, guid: 6136eadf2108e4265a20e5b1c81b6e52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: residential1
+    second: {fileID: 2100000, guid: 3ad2b84a237db4df8b5faa5cd434718a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: residential2
+    second: {fileID: 2100000, guid: 89156f4d44bc94743825ced7eefb5239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: residential3
+    second: {fileID: 2100000, guid: 0861dff72af014fd3a36a1fb13171e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof22s
+    second: {fileID: 2100000, guid: f936ecd42072a4d479d512a09b9a3e9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree_bark
+    second: {fileID: 2100000, guid: b1544a461b86243f7aab56b35b6d4d2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree_leaves
+    second: {fileID: 2100000, guid: 9f8dd15c5b03e40a8aa7114d1638adf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vinece_1
+    second: {fileID: 2100000, guid: f4754475823ee43faa38b15ed9188c71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vinece_2
+    second: {fileID: 2100000, guid: 5db922c7d31bd4b039956f2c3029b43e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vinece_3
+    second: {fileID: 2100000, guid: 4a385d9291c4d44078570b62d946c2fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vinece_5
+    second: {fileID: 2100000, guid: a3ef5bff38918458b80663938053b814, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0435\u0442\u0430\u043B\u043B-\u041D\u0435\u0440\u0436\u0430\u0432\u0435\u044E\u0449"
+    second: {fileID: 2100000, guid: d139b063ff0464b559dcacc7824ce733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0435\u0442\u0430\u043B\u043B-\u0425\u0440\u043E\u043C"
+    second: {fileID: 2100000, guid: 7fe212803c31c4a1ea6563c07be5ee24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041F\u043E\u0432\u0435\u0440\u0445.-\u0411\u0435\u043B\u0430\u044F"
+    second: {fileID: 2100000, guid: f4d0cf1ee0060416a819b664b0624ac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u0421\u0442\u0435\u043A\u043B\u043E \u0437\u0435\u0440\u043A\u0430\u043B\u044C\u043D\u043E"
+    second: {fileID: 2100000, guid: b661529771aee4b238eb41ef0b077d0b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9_12_1_b
+    second: {fileID: 2800000, guid: 1d04c5edd1c3b4b9b81ebb3e224fe875, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brown_Bark_1_diffuse
+    second: {fileID: 2800000, guid: eaf199ad6f8f5428eacf736458751f2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Courier_Service
+    second: {fileID: 2800000, guid: 7b8caebb05b104e8ea2bee57b083dea5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Courier_Service_01
+    second: {fileID: 2800000, guid: 550df067ad90045e6984e5171f900c1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grass_01
+    second: {fileID: 2800000, guid: a6eed01215d00431eba37841e564570b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hospital
+    second: {fileID: 2800000, guid: d379ce5b7d9a542a6b51ca63f64854bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material1
+    second: {fileID: 2800000, guid: 9c0ece48929b0404794c275a475d0b41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material2
+    second: {fileID: 2800000, guid: 5220ec743c7e64b23a113fc9ed1e2cf7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material3
+    second: {fileID: 2800000, guid: bb13cae3f4c854fcbaf2e635cafbf1a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material4
+    second: {fileID: 2800000, guid: 1b59b508f53b74c1dbf9a8fe4d794111, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material5
+    second: {fileID: 2800000, guid: 2a0819e0ccb314afdbf614c58c34be2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material6
+    second: {fileID: 2800000, guid: 4e57406b1fb4145ce82389280cb18737, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material7
+    second: {fileID: 2800000, guid: eb80ee2430ccc4eb1895bafd5388e93a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material8
+    second: {fileID: 2800000, guid: 3250341c735cf4b4cbe9bdbe02f94739, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pavement_01
+    second: {fileID: 2800000, guid: efed9aca5a7b0420c991233866438176, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pavement_02
+    second: {fileID: 2800000, guid: 3b8b28b4062e54196a72cc1730bbf8de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plitka
+    second: {fileID: 2800000, guid: 5d82fc37180f24643b1fc4af357aae62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Road_Tex
+    second: {fileID: 2800000, guid: 847325d9de6984a3bacf9ec6f59060ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sycamore_Maple_diffuse
+    second: {fileID: 2800000, guid: b51be440dc27d4fe381840d355a47217, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Door_church_BC
+    second: {fileID: 2800000, guid: da3374d9b25034692bcca32fd46d29a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Door_church_N
+    second: {fileID: 2800000, guid: af1f9ce44ea634e3080a41ba2f8b4e41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Sandstone_church_BC
+    second: {fileID: 2800000, guid: 47d4599b5d70147988a586630e57ef59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: atlasnoe_derevol
+    second: {fileID: 2800000, guid: 67fe8029b37704ebd9c5a344c5b5f100, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bcn_2
+    second: {fileID: 2800000, guid: 803df84b3e6fa4a96b74f99e50f927c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bcn_3
+    second: {fileID: 2800000, guid: c6d4501486f774da7b3e434926a4ed70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bcn_4
+    second: {fileID: 2800000, guid: 11c071cf8d2334b63a04816a6cd3f80d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: church1
+    second: {fileID: 2800000, guid: 0b247d285da5649ffb575a3f9d1e5600, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: church2
+    second: {fileID: 2800000, guid: 645d40ddb9e424ec0bcd9c961485669d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: church3
+    second: {fileID: 2800000, guid: 647f38e0ee0a445dbb913262e5dd225d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: church4
+    second: {fileID: 2800000, guid: 0d4e4a9e1fcab4fa6a8202ea7b5b1853, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: church6
+    second: {fileID: 2800000, guid: b45b3da0508b549c6a0d5a475142666f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fence-png-5076
+    second: {fileID: 2800000, guid: 5334b55be22534c3ea7db22c488367a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: houses1_DIFF
+    second: {fileID: 2800000, guid: 2ca7bda1c7f494c6e9cdb2e8c12df5c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: houses2_DIFF
+    second: {fileID: 2800000, guid: 1c90b946c21c74dbd8031e6e414f13f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: houses3_DIFF
+    second: {fileID: 2800000, guid: 15f36af30040549eaba0fef9cff7d8de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rapolano_3_400x400
+    second: {fileID: 2800000, guid: 20f60d85e272a42a2b3edf010ea6865a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roofdisplace
+    second: {fileID: 2800000, guid: f8696a80db7ee43a9b3d27d74dbbbc71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: set1_DIFF
+    second: {fileID: 2800000, guid: 7f6a53a9dfe86423db2c9daab77a79f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: set2_DIFF
+    second: {fileID: 2800000, guid: f15a6c0d01c2b4e06856b35519ae031e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: set3_DIFF
+    second: {fileID: 2800000, guid: 2b022fe55ccd5496499c54435f755c37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stone-21_d100
+    second: {fileID: 2800000, guid: e97cf334ca6f549b59c3caf41d37c0ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: street_lights
+    second: {fileID: 2800000, guid: fd5e97f4f37a241e3a114d336fb04b31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex
+    second: {fileID: 2800000, guid: af44f1e214e6c4d86aa944f460211dd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex01
+    second: {fileID: 2800000, guid: 6c2772b47b1c948c89d3519218bf8d6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex02
+    second: {fileID: 2800000, guid: 8beba25e02fd3479a9a1891bcdf837ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex03
+    second: {fileID: 2800000, guid: 8aba631795d534d079b225137d5f258c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex04
+    second: {fileID: 2800000, guid: 2bbe2b1df28534eb49f6b0a1d7736b05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex1
+    second: {fileID: 2800000, guid: c2f3d1cd91027439d84b885274ea9090, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: venice1
+    second: {fileID: 2800000, guid: 08f1d8e6c39a54e969ea0e71423d0b23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: venice2
+    second: {fileID: 2800000, guid: 55c0c78daac284eeca4374f50e3a825b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: venice3
+    second: {fileID: 2800000, guid: 50e58127fff13436bad3044ca7eebc4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: venice5
+    second: {fileID: 2800000, guid: fcdf2a4fff07d4729902c59c12bfc100, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wb_nl_TEF-bemm bemmel rustiek hv-urltexturemain
+    second: {fileID: 2800000, guid: 62b3bd8d37d054fe3b9906ad50e8325d, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.85
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
