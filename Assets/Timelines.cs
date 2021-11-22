@@ -34,40 +34,40 @@ public class Timelines : MonoBehaviour
         }
         else if (GameManager.Instance.SelectedLevel == 4)
         {
-            cutScene[1].SetActive(true);
+            cutScene[3].SetActive(true);
             StartCoroutine(CutSceneDelayandOFF(5));
 
         }
         else if (GameManager.Instance.SelectedLevel == 5)
         {
-            cutScene[2].SetActive(true);
+            cutScene[4].SetActive(true);
             StartCoroutine(CutSceneDelayandOFF(11));
         }
         else if (GameManager.Instance.SelectedLevel == 6)
         {
-            cutScene[1].SetActive(true);
+            cutScene[5].SetActive(true);
             StartCoroutine(CutSceneDelayandOFF(11));
 
         }
         else if (GameManager.Instance.SelectedLevel == 7)
         {
-            cutScene[2].SetActive(true);
+            cutScene[6].SetActive(true);
             StartCoroutine(CutSceneDelayandOFF(7));
         }
         else if (GameManager.Instance.SelectedLevel == 8)
         {
-            cutScene[1].SetActive(true);
+            cutScene[7].SetActive(true);
             StartCoroutine(CutSceneDelayandOFF(7));
 
         }
         else if (GameManager.Instance.SelectedLevel == 9)
         {
-            cutScene[2].SetActive(true);
+            cutScene[8].SetActive(true);
             StartCoroutine(CutSceneDelayandOFF(7));
         }
         else if (GameManager.Instance.SelectedLevel == 10)
         {
-            cutScene[2].SetActive(true);
+            cutScene[9].SetActive(true);
             StartCoroutine(CutSceneDelayandOFF(11));
         }
     }
@@ -110,10 +110,8 @@ public class Timelines : MonoBehaviour
         {
             cutScene[9].SetActive(false);
         }
-        else if(cutScene[10].activeInHierarchy)
-        {
-            cutScene[10].SetActive(false);
-        }
+        else {}
+        
         GamePlayManager.instance.canVas.SetActive(true);
         
     }

@@ -133,11 +133,11 @@ public class UiManager : MonoBehaviour {
         GameManager.Instance.SelectedLevel += 1;
         SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.GenericButtonClip);        
         // GameManager.Instance.ChangeScene("Gameplay");
-        if(GameManager.Instance.SelectedLevel <= 15)
+        if(GameManager.Instance.SelectedLevel <= 10)
         {
         GameManager.Instance.ChangeScene("Gameplay");
         }
-        else if(GameManager.Instance.SelectedLevel == 16)
+        else if(GameManager.Instance.SelectedLevel == 11)
         {
         GameManager.Instance.ChangeScene("MainMenu");
         }
