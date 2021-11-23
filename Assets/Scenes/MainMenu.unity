@@ -517,7 +517,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2215ccce33d475a43b30c2fc5ae188f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MainMenuClip: {fileID: 8300000, guid: 4cd459cb7f111604981206ea97ce7826, type: 3}
+  MainMenuClip: {fileID: 8300000, guid: 59482e5441482b645bfa4aa48499607c, type: 3}
   LevelSelectionClip: {fileID: 8300000, guid: 818e22ba6948bd94e95f2f9e732de428, type: 3}
   GamePlayClip: {fileID: 0}
   PlayButtonClick: {fileID: 8300000, guid: 06741e5a5a5599c4ea6933144345bb3e, type: 3}
@@ -547,7 +547,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &45033668
 AudioSource:
@@ -2863,49 +2863,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 859197691}
   m_CullTransparentMesh: 0
---- !u!1 &864530950
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 864530951}
-  - component: {fileID: 864530952}
-  m_Layer: 0
-  m_Name: MonetizationManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &864530951
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 864530950}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 847.1441, y: 415.17944, z: 27.98269}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &864530952
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 864530950}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 182ad2b8317d9524b940a404e3e54d5f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &984401659
 GameObject:
   m_ObjectHideFlags: 0
@@ -3450,7 +3407,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1143880766}
-  - component: {fileID: 1143880765}
   m_Layer: 0
   m_Name: PlayfabManager
   m_TagString: Untagged
@@ -3458,18 +3414,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1143880765
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1143880764}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b77e8b83c9f094716a4e78c2c6c079dd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &1143880766
 Transform:
   m_ObjectHideFlags: 0
