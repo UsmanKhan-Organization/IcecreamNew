@@ -528,13 +528,14 @@ MonoBehaviour:
   AchievementUnlockedClip: {fileID: 0}
   JumpScars: {fileID: 0}
   typewritterEfect: {fileID: 0}
-  grab: {fileID: 8300000, guid: cf875cbbf7a7afa4ebdab208acbf8229, type: 3}
-  gameOver: {fileID: 8300000, guid: f1ead7f0e2873244c9c1e48ab855bff9, type: 3}
+  grab: {fileID: 8300000, guid: eb737a7fe6e54c446a6739082c7e30d9, type: 3}
+  finish: {fileID: 8300000, guid: 6310c48e24308074f8c64f42c41a44db, type: 3}
+  gameOver: {fileID: 8300000, guid: dc0250114279d354b85301d95e3300ed, type: 3}
   openDoor: {fileID: 8300000, guid: d3f1202361597f745902192fe3f66386, type: 3}
   thanku: {fileID: 0}
   Thunder: {fileID: 8300000, guid: d2dcb3f42911ff94a9bb731078e34e0f, type: 3}
   Thunder2: {fileID: 8300000, guid: 3fd7831783a5c3c4587da018af2083f5, type: 3}
-  Sunspense: {fileID: 8300000, guid: 5257be8a6af71ff45833925821b08e25, type: 3}
+  Sunspense: {fileID: 8300000, guid: 922399eb0fd7d344493ad9aedee4d64b, type: 3}
 --- !u!4 &45033667
 Transform:
   m_ObjectHideFlags: 0

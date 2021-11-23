@@ -20,6 +20,7 @@ public class AudioClipsSource : MonoBehaviour
     public AudioClip JumpScars;
     public AudioClip typewritterEfect;
     public AudioClip grab;
+    public AudioClip finish;
     public AudioClip gameOver;
     public AudioClip openDoor;
     public AudioClip thanku;

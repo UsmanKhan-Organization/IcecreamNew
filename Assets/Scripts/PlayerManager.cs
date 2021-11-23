@@ -63,6 +63,7 @@ public class PlayerManager : MonoBehaviour
         }
         if (objectstoGrab <= 0 && !levelCompleteCheck && GameManager.Instance.SelectedLevel == 2)
         {
+            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.finish);
             levelCompleteCheck = true;
             Debug.Log("LEVEL UP");
             Invoke("LeveComplete", 2.0f);
@@ -182,7 +183,7 @@ public class PlayerManager : MonoBehaviour
         //}
         if (GameManager.Instance.SelectedLevel == 3 && other.gameObject.tag == "Finish")
         {
-            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.grab);
+            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.finish);
             levelCompleteCheck = true;
             Debug.Log("LEVEL UP");
             Invoke("LeveComplete", 2.0f);
@@ -190,7 +191,7 @@ public class PlayerManager : MonoBehaviour
         }
         if (GameManager.Instance.SelectedLevel == 4 && other.gameObject.tag == "Finish")
         {
-            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.grab);
+            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.finish);
             levelCompleteCheck = true;
             Debug.Log("LEVEL UP");
             Invoke("LeveComplete", 2.0f);
@@ -198,7 +199,7 @@ public class PlayerManager : MonoBehaviour
         }
         if (GameManager.Instance.SelectedLevel == 5 && other.gameObject.tag == "Finish")
         {
-            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.grab);
+            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.finish);
             levelCompleteCheck = true;
             Debug.Log("LEVEL UP");
             Invoke("LeveComplete", 2.0f);
@@ -206,7 +207,7 @@ public class PlayerManager : MonoBehaviour
         }
         if (GameManager.Instance.SelectedLevel == 8 && other.gameObject.tag == "Finish")
         {
-            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.grab);
+            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.finish);
             levelCompleteCheck = true;
             Debug.Log("LEVEL UP");
             Invoke("LeveComplete", 2.0f);
@@ -214,7 +215,7 @@ public class PlayerManager : MonoBehaviour
         }
         if (GameManager.Instance.SelectedLevel == 10 && other.gameObject.tag == "Finish" && grabed)
         {
-            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.grab);
+            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.finish);
             levelCompleteCheck = true;
             Debug.Log("LEVEL UP");
             Invoke("LeveComplete", 2.0f);
@@ -222,7 +223,7 @@ public class PlayerManager : MonoBehaviour
         }
         if (GameManager.Instance.SelectedLevel == 11 && other.gameObject.tag == "Finish")
         {
-            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.grab);
+            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.finish);
             levelCompleteCheck = true;
             Debug.Log("LEVEL UP");
             Invoke("LeveComplete", 2.0f);
@@ -230,7 +231,7 @@ public class PlayerManager : MonoBehaviour
         }
         if (GameManager.Instance.SelectedLevel == 12 && other.gameObject.tag == "Finish")
         {
-            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.grab);
+            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.finish   );
             levelCompleteCheck = true;
             Debug.Log("LEVEL UP");
             Invoke("LeveComplete", 2.0f);

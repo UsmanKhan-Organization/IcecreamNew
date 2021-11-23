@@ -30,7 +30,7 @@ public class ObjectGrabed : MonoBehaviour
         {
             // PlayerManager.instance.OpenAbleObject.GetComponent<Animator>().enabled = true;
             // PlayerManager.instance.OpenAbleObject.GetComponent<AudioSource>().enabled = true;
-            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.grab);
+            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.finish);
             GamePlayManager.instance.vanDoor.GetComponent<BoxCollider>().enabled = true;
 
             Debug.Log("LEVEL UP");
@@ -60,7 +60,7 @@ public class ObjectGrabed : MonoBehaviour
         {
             // PlayerManager.instance.OpenAbleObject.GetComponent<Animator>().enabled = true;
             // PlayerManager.instance.OpenAbleObject.GetComponent<AudioSource>().enabled = true;
-            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.grab);
+            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.finish);
             GamePlayManager.instance.garageButton.GetComponent<BoxCollider>().enabled = true;
             GamePlayManager.instance.garageWall.SetActive(false);
 

@@ -47,7 +47,7 @@ public class ObjectiveHandler : MonoBehaviour
     {
         if (GameManager.Instance.SelectedLevel == 1)
         {
-            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.grab);
+            SoundManager.Instance.PlayEffect(AudioClipsSource.Instance.finish);
             UiManager.Instance.LevelCompleteScreen.SetActive(true);
             // PlayerManager.instance.levelCompleteCheck = true;
             // Debug.Log("LEVEL UP");
