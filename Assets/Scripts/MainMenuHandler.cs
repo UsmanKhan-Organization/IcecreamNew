@@ -98,7 +98,7 @@ public class MainMenuHandler : MonoBehaviour {
             //UpdatePlayerName(PlayerPrefs.GetString("PlayerName"));
 
         }
-        PlayButton.transform.DOScale(0.95f, 0.75f).SetLoops(-1, LoopType.Yoyo);
+        PlayButton.transform.DOScale(0.70f, 0.55f).SetLoops(-1, LoopType.Yoyo);
         //Logo.transform.DOScale(0.95f, 5f).SetLoops(-1, LoopType.Yoyo);
         //SettingButton.transform.DOScale(0.95f, 0.75f).SetLoops(-1, LoopType.Yoyo);
         //moreButton.transform.DOScale(0.95f, 0.75f).SetLoops(-1, LoopType.Yoyo);

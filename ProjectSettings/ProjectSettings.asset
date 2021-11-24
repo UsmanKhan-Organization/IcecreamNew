@@ -163,7 +163,7 @@ PlayerSettings:
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
-  AndroidTargetSdkVersion: 31
+  AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   stripEngineCode: 1
@@ -251,7 +251,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: G:/USMAN PROJECTS/GitHub/IcecreamNew/keystore/keystore.keystore
+  AndroidKeystoreName: D:/USMAN DATA/Github/IcecreamNew/keystore/keystore.keystore
   AndroidKeyaliasName: haditech
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1
