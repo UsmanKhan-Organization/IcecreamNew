@@ -1727,8 +1727,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da991cd21a35d46a0980e3af832946cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RateUsAndriod: https://play.google.com/store/apps/details?id=com.icesreamhorror.scarygame.neighborscarygame.scaryicescream
-  RateUsiOS: pps.apple.com/us/app/id1491290198
+  RateUsAndriod: https://play.google.com/store/apps/details?id=com.horror.ice.hello.scream.truck.neighbor.creepy.clown
+  RateUsiOS: 
   MoreAppAndriod: https://play.google.com/store/apps/developer?id=Hadi+Technologies
   MoreAppiOS: 
   LeaderboardButton: {fileID: 0}
@@ -2169,7 +2169,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 643560132}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 522389249}
+        m_MethodName: RateUsButtonClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &643560132
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3747,7 +3758,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1173589940
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5217,7 +5228,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1631437914
 RectTransform:
   m_ObjectHideFlags: 0

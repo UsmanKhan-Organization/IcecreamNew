@@ -171,9 +171,9 @@ public class MainMenuHandler : MonoBehaviour {
     public void Cross()
     {
         Logo.gameObject.SetActive(true);
-        SettingPanel.SetActive(false);
-        InfoPannel.SetActive(false);
-        Socialmediabutton.SetActive(false);
+        // SettingPanel.SetActive(false);
+        // InfoPannel.SetActive(false);
+        // Socialmediabutton.SetActive(false);
         LevelSelection.SetActive(false);
     }
 
